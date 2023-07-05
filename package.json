@@ -1,10 +1,10 @@
 {
-  "name": "expample_1",
+  "name": "example_1",
   "author": "Kevin7C",
   "version": "0.0.1",
   "license": "MIT",
   "main": "dist/index.js",
-  "module": "dist/expample_1.esm.js",
+  "module": "dist/example_1.esm.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist",

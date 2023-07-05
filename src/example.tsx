@@ -1,9 +1,9 @@
 import React from 'react';
 
-export const Expample = ()=>{
+export const Example = ()=>{
     return (
         <div>
-            lib-expample
+            lib-example
         </div>
     )
 }
